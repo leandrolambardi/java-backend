@@ -1,27 +1,17 @@
-# Java Backend
+# ☕ Universidad Java - Global Mentoring (Ubaldo Acosta)
 
-Repositorio destinado a la práctica y consolidación de conceptos de Java, siguiendo el curso *Universidad Java* (Global Mentoring).
+Repositorio de práctica y consolidación de conceptos de Java,
+siguiendo el curso Universidad Java de Global Mentoring.
 
-El objetivo es mantener un registro organizado de los ejercicios y ejemplos desarrollados, aplicando buenas prácticas de estructura, paquetes y versionado.
+> 🔧 Ing. Mecánico
+> 👨‍💻 Estudiante de Tecnicatura Superior en Desarrollo de Software  
 
----
+## 🎯 Objetivo
+Mantener un registro organizado de los ejercicios y ejemplos
+desarrollados, aplicando buenas prácticas de estructura,
+paquetes y versionado con Git.
 
-## Estructura actual
-```
-src/
-├── app/
-│   └── Main.java
-└── poo/
-    └── persona/
-        └── Persona.java
-```
+## 🛠️ Tecnologías
+- Java (JDK 17+)
+- Git / GitHub
 
----
-
-## Ejecución
-
-Desde la raíz del proyecto:
-
-```bash
-javac src\app\Main.java src\poo\persona\Persona.java
-java -cp src app.Main
