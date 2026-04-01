@@ -1,4 +1,4 @@
-package poo.persona;
+package persona;
 
 public class Persona {
 

@@ -1,6 +1,6 @@
-package poo.aritmetica.prueba;
+package aritmetica.prueba;
 
-import poo.aritmetica.Aritmetica;
+import aritmetica.Aritmetica;
 
 public class PruebaAritmetica {
     public static void main(String[] args) {

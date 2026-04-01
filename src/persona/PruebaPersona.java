@@ -1,4 +1,4 @@
-package poo.persona;
+package persona;
 
 public class PruebaPersona {
     public static void main(String[] args) {

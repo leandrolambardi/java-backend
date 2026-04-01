@@ -1,4 +1,4 @@
-package poo.aritmetica;
+package aritmetica;
 
 public class Aritmetica {
     private int operando1;
