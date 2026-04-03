@@ -9,10 +9,9 @@ public class Persona {
         this.nombre = nombre;
         this.apellido = apellido;
     }
-
-    void mostrarPersona(){
-        System.out.println("Nombre = " + this.nombre);
-        System.out.println("Apellido = " + this.apellido);
+    @Override
+    public String toString(){
+        return "Nombre = " + this.nombre + "\n" + "Apellido = " + this.apellido;
     }
 
     public String getNombre() {
